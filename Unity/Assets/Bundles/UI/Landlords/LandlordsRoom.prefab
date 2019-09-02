@@ -1844,7 +1844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8347f75bbf20473292de676504ad7398, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CanvasName: RoomCanvas
+  CanvasName: LobbyCanvas
 --- !u!222 &222045014595764024
 CanvasRenderer:
   m_ObjectHideFlags: 1
